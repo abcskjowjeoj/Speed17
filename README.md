@@ -1,6 +1,6 @@
 ## Speed17 | 放心云 | fxy
 
-[https://fxy.pw](https://fxy.pw/#/register?code=SXFYb4gE) 
+[https://fxyjs.fun](https://fxyjs.fun/#/register?code=SXFYb4gE) 
 
 - 解锁YouTube Premium、Spotify 
 - 解锁流媒体：Netflix、BBC iPlayer、Hulu、Amazon Prime Video、Disney+、HBO等，以及体育赛事和在线直播  
