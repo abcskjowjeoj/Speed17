@@ -1,7 +1,9 @@
 ## Speed17 | 放心云 | fxy
 
-[备用1: https://fxyjs.fun (正常)](https://fxyjs.fun/#/register?code=SXFYb4gE)  
-[备用2: https://放心云.com (正常)](https://放心云.com/#/register?code=SXFYb4gE)  
+[备用1: https://孔乙己.com (正常)](https://孔乙己.com/#/register?code=SXFYb4gE)  
+[备用2: https://fxy17.com (正常)](https://fxy17.com/#/register?code=SXFYb4gE)  
+[备用3: https://fxyjs.fun (被墙，需挂梯子)](https://fxyjs.fun/#/register?code=SXFYb4gE)  
+[备用4: https://放心云.com (被墙，需挂梯子)](https://放心云.com/#/register?code=SXFYb4gE)  
 [永久地址: https://speed17.com (被墙，需挂梯子)](https://speed17.com/#/register?code=SXFYb4gE)  
 Telegram公告频道: [https://t.me/speed17push](https://t.me/speed17push)  
 特点：
