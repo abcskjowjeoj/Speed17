@@ -1,5 +1,6 @@
 ## Speed17 | 放心云 | fxy
 
+[导航页: https://speed17.net (正常)](https://speed17.net)
 [备用1: https://孔乙己.com (正常)](https://孔乙己.com/#/register?code=SXFYb4gE)  
 [备用2: https://fxy17.com (正常)](https://fxy17.com/#/register?code=SXFYb4gE)  
 [备用3: https://fxyjs.fun (被墙，需挂梯子)](https://fxyjs.fun/#/register?code=SXFYb4gE)  
