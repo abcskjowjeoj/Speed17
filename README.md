@@ -14,3 +14,4 @@ Telegram公告频道: [https://t.me/speed17push](https://t.me/speed17push)
 5. 支持的设备：Windows电脑、Mac电脑、iOS、安卓、Linux、路由器、安卓电视 
 6. 查资料、学英语、上网课、留学，程序员必备 
 7. 支持ChatGPT。程序员(媛)、科研党查资料(mo yu)的利器。学渣逆袭变学霸。AI搭配干活不累。
+8. 支持TikTok，有固定家庭宽带IP，比如台湾🇹🇼、泰国🇹🇭、越南🇻🇳、韩国🇰🇷、印尼🇮🇩
