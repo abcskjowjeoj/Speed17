@@ -19,7 +19,8 @@
     <img src="https://images.icon-icons.com/643/PNG/512/mac-apple-osx-desktop-software-hardware_icon-icons.com_59289.png" width="64" alt="macOS 安装包"/>
   </a>
 
-
+[客户端下载: https://d.speed17.net](https://d.speed17.net)
+[客户端下载(备用): https://github.com/abcskjowjeoj/Speed17/releases/tag/v20250412](https://github.com/abcskjowjeoj/Speed17/releases/tag/v20250412)
 [导航页: https://speed17.net (正常)](https://speed17.net)  
 [备用3: https://fxyjs.fun (被墙，需挂梯子)](https://fxyjs.fun/#/register?code=SXFYb4gE)  
 [备用4: https://放心云.com (被墙，需挂梯子)](https://放心云.com/#/register?code=SXFYb4gE)  
@@ -31,6 +32,7 @@ Telegram公告频道: [https://t.me/speed17push](https://t.me/speed17push)
 3. 高可用+自动负载均衡设计，基本上不会挂，自研后端 + 自动扩容
 4. 解锁流媒体：Netflix、BBC iPlayer、Hulu、Amazon Prime Video、Disney+、HBO以及YouTube Premium、Spotify
 5. 支持的设备：Windows电脑、Mac电脑、iOS、安卓、Linux、路由器、安卓电视 
-6. 查资料、学英语、上网课、留学，程序员必备 
+6. 跨境电商、查资料、学英语、上网课、留学，程序员必备 
 7. 支持ChatGPT。程序员(媛)、科研党查资料(mo yu)的利器。学渣逆袭变学霸。AI搭配干活不累。
 8. 支持TikTok，有固定家庭宽带IP，比如台湾🇹🇼、泰国🇹🇭、越南🇻🇳、韩国🇰🇷、印尼🇮🇩
+9. 自研客户端，简单易用
