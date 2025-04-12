@@ -1,4 +1,24 @@
 ## Speed17 | 放心云 | fxy
+## 📥 安装包下载
+
+欢迎下载最新版本的应用！请选择适合您的平台进行下载：
+
+
+- **Android**  
+  <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250412/Fxy-android-latest.apk">
+    <img src="https://images.icon-icons.com/836/PNG/512/Android_icon-icons.com_66772.png" width="64" alt="Android 安装包"/>
+  </a>
+
+- **Windows**  
+  <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250412/Fxy-windows-amd64-setup-latest.exe">
+    <img src="https://images.icon-icons.com/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" width="64" alt="Windows 安装包"/>
+  </a>
+
+- **macOS**  
+  <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250412/Fxy-macos-arm64-latest.dmg">
+    <img src="https://icon-icons.com/icon/mac-apple-osx-desktop-software-hardware/59289" width="64" alt="macOS 安装包"/>
+  </a>
+
 
 [导航页: https://speed17.net (正常)](https://speed17.net)  
 [备用3: https://fxyjs.fun (被墙，需挂梯子)](https://fxyjs.fun/#/register?code=SXFYb4gE)  
