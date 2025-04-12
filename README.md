@@ -19,8 +19,8 @@
     <img src="https://images.icon-icons.com/643/PNG/512/mac-apple-osx-desktop-software-hardware_icon-icons.com_59289.png" width="64" alt="macOS 安装包"/>
   </a>
 
-[客户端下载: https://d.speed17.net](https://d.speed17.net)
-[客户端下载(备用): https://github.com/abcskjowjeoj/Speed17/releases/tag/v20250412](https://github.com/abcskjowjeoj/Speed17/releases/tag/v20250412)
+[客户端下载: https://d.speed17.net](https://d.speed17.net)  
+[客户端下载(备用): https://github.com/abcskjowjeoj/Speed17/releases/tag/v20250412](https://github.com/abcskjowjeoj/Speed17/releases/tag/v20250412)  
 [导航页: https://speed17.net (正常)](https://speed17.net)  
 [备用3: https://fxyjs.fun (被墙，需挂梯子)](https://fxyjs.fun/#/register?code=SXFYb4gE)  
 [备用4: https://放心云.com (被墙，需挂梯子)](https://放心云.com/#/register?code=SXFYb4gE)  
