@@ -16,7 +16,7 @@
 
 - **macOS**  
   <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250412/Fxy-macos-arm64-latest.dmg">
-    <img src="https://icon-icons.com/icon/mac-apple-osx-desktop-software-hardware/59289" width="64" alt="macOS 安装包"/>
+    <img src="https://images.icon-icons.com/643/PNG/512/mac-apple-osx-desktop-software-hardware_icon-icons.com_59289.png" width="64" alt="macOS 安装包"/>
   </a>
 
 
