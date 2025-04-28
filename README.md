@@ -5,17 +5,17 @@
 
 
 - **Android**  
-  <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250416/Fxy-android-latest.apk">
+  <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250428/Fxy-0.8.84-android-arm64-v8a.apk">
     <img src="https://images.icon-icons.com/836/PNG/512/Android_icon-icons.com_66772.png" width="64" alt="Android 安装包"/>
   </a>
 
 - **Windows**  
-  <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250416/Fxy-windows-setup-latest.exe">
+  <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250428/Fxy-0.8.84-windows-amd64-setup.exe">
     <img src="https://images.icon-icons.com/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" width="64" alt="Windows 安装包"/>
   </a>
 
 - **macOS**  
-  <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250416/Fxy-macos-arm64-latest.dmg">
+  <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250428/Fxy-0.8.84-macos-arm64.dmg">
     <img src="https://images.icon-icons.com/643/PNG/512/mac-apple-osx-desktop-software-hardware_icon-icons.com_59289.png" width="64" alt="macOS 安装包"/>
   </a>
 
