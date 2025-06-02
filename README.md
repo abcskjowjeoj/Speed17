@@ -17,7 +17,8 @@
 - **macOS**  
   <a href="https://github.com/abcskjowjeoj/Speed17/releases/download/v20250602/Fxy-0.8.86-macos-arm64.dmg">
     <img src="https://images.icon-icons.com/643/PNG/512/mac-apple-osx-desktop-software-hardware_icon-icons.com_59289.png" width="64" alt="macOS 安装包"/>
-  </a>
+  </a>  
+  注意：Intel CPU的苹果电脑用户，请从release中下载对应的版本
 
 [客户端下载: https://d.speed17.net](https://d.speed17.net)  
 [客户端下载(备用): https://github.com/abcskjowjeoj/Speed17/releases/latest](https://github.com/abcskjowjeoj/Speed17/releases/latest)  
