@@ -19,6 +19,8 @@
     <img src="https://images.icon-icons.com/643/PNG/512/mac-apple-osx-desktop-software-hardware_icon-icons.com_59289.png" width="64" alt="macOS 安装包"/>
   </a>  
   注意：Intel CPU的苹果电脑用户，请从release中下载对应的版本
+>假如你的CPU是 “**Apple M2**”，那么你就该下载Fxy-0.8.86-macos-**arm64**.dmg  
+>假如你的CPU是 "**Intel**"，那么你就该下载Fxy-0.8.86-macos-**amd64**.dmg  
 
 [客户端下载: https://d.speed17.net](https://d.speed17.net)  
 [客户端下载(备用): https://github.com/abcskjowjeoj/Speed17/releases/latest](https://github.com/abcskjowjeoj/Speed17/releases/latest)  
